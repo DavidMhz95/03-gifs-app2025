@@ -1,6 +1,6 @@
 # GifApp2025
 
-Este es un proyecto en angular
+Este es un proyecto en angular para practicar Signals y Standadole components. Tambien Tailwind.
 
 ## Dev
 1. Clonar el repo
